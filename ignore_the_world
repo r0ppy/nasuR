@@ -1,0 +1,25 @@
+\documentclass[a4paper,11pt]{jsarticle}
+
+
+% 数式
+\usepackage{amsmath,amsfonts}
+\usepackage{bm}
+% 画像
+\usepackage[dvipdfmx]{graphicx}
+
+%コード貼り付け
+\usepackage{listings, jlisting}
+\lstset{
+  frame = TBlr1,
+  framesep = 5pt,
+}
+
+\begin{document}
+
+\title{}
+\author{}
+\date{}
+\maketitle
+
+
+\end{document}
