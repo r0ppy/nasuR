@@ -6,6 +6,7 @@
 \usepackage{bm}
 % 画像
 \usepackage[dvipdfmx]{graphicx}
+\usepackage{url}
 
 %コード貼り付け
 \usepackage{listings, jlisting}
